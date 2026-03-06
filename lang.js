@@ -1,6 +1,6 @@
 const translations = {
     vi: {
-        title: "Made For Nabila 🎁",
+        title: "Made For Celin 🎁",
         description: "Only for you!",
         login: "Đăng nhập bằng Google",
         logout: "Đăng xuất",
